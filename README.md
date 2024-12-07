@@ -33,8 +33,12 @@ This repository contains GIS assignments and projects created for GEO 541B. Each
 
 ### **Contents**  
 - **Maps Outputs**:  
-   - ![Minnesota Counties Map](https://drive.google.com/uc?export=view&id=1axQ1-ArGZ1N4xzimb-ZIhaTWNzHxjCxO)  
-   - ![Inset Map](https://drive.google.com/uc?export=view&id=13Lv_78wd2E7tNBwY4esGrNafOZfLt-B1)  
+   - ![Minnesota Map](https://drive.google.com/uc?export=view&id=1sV5BGJNsHOFqx9a42SY6x-2nHchx9MRg)
+
+   - ![Example Image](https://drive.google.com/uc?export=view&id=1Dxp42xesVnvGw7d3u8jbSLWlq2Z0elUY)
+
+
+ 
 
 - **Google Colab Notebook**:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Vr-dh0Fp1qa6gq7PQCwU-ywGX183p8j)
