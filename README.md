@@ -18,11 +18,13 @@ This repository contains GIS assignments and projects created for GEO 541B. Each
 
 ### **Contents**  
 - **Maps Outputs**:  
-   - ![Lakes and Roads Map](https://drive.google.com/uc?export=view&id=1urG_eDz05O32aqZiqNT66Bi2394Wxxby)  
-   - ![Wetlands Map](https://drive.google.com/uc?export=view&id=1Dxp42xesVnvGw7d3u8jbSLWlq2Z0elUY)  
+   - ![Cloquet](https://drive.google.com/uc?export=view&id=1UobUt0qH21VXAK1idtx6g3YEegK4wXvr)
+
+   - ![Wetlands Map](https://drive.google.com/uc?export=view&id=17o6UX5tcSfqgp4Xni706O-Xl8foFN5p4)
 
 - **Google Colab Notebook**:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f4B6vXhMjCOkLlxMZDaIsn3KInHPTRAo)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QlqEerxQ4EByxZN5d5LGEbxh8U4WNWHn?usp=sharing)
+
 
 ---
 
