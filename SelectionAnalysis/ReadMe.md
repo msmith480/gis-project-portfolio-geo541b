@@ -31,6 +31,8 @@ This folder contains maps and GIS data related to Week 5's assignment on analyzi
 ## Maps
 ![Week 5 Map Example](https://drive.google.com/uc?export=view&id=1urG_eDz05O32aqZiqNT66Bi2394Wxxby)
 
+![Week 5 Second Map](https://drive.google.com/uc?export=view&id=1axQ1-ArGZ1N4xzimb-ZIhaTWNzHxjCxO)
+
 
 ## Reflection
 Summarize the following:
